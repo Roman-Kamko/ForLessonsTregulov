@@ -5,3 +5,10 @@
 ### Темы:
 
 + интерфейсы Comparable & Comparator
++ Generics
+  + intro (см. Test1.java)
+  + Parametrized classes
+  + Parametrized methods
+  + Пример (см. game.Test)
+  + Subtyping
+  + TypeErasure
