@@ -1,4 +1,4 @@
-package comparator;
+package myDB.comparable_comparator;
 
 import java.util.ArrayList;
 import java.util.Collections;
