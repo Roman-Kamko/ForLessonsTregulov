@@ -5,6 +5,8 @@
 ### Темы:
 
 + интерфейсы Comparable & Comparator
+
+
 + Generics
   + intro (см. Test1.java)
   + Parametrized classes
@@ -12,3 +14,9 @@
   + Пример (см. game.Test)
   + Subtyping
   + TypeErasure
+  + WildCard
+
+
++ Collections
+  + List
+    + ArrayList
