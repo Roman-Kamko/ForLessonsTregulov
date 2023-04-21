@@ -22,8 +22,15 @@
   + ListIterator
   + BinarySearch
   + BigO
+
+
   + List
     + ArrayList
     + LinkedList
     + Vector
     + Stack
+
+
+  + Equals & HashCode
+  + Map
+    + HashMap
