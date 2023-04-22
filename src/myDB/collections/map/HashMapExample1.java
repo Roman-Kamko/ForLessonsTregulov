@@ -7,6 +7,8 @@ public class HashMapExample1 {
     // HashMap - не является коллекцией, но тесно с ними связан. Хранит в себе значения в виде
     // пары ключ - значение, не запоминает порядок добавления, его методы работают очень быстро,
     // ключи не могут дублироваться, значения могут
+    // если по простому, то в основе HashMap лежит массив, а элементами данного массива являются
+    // структуры LinkedList, эти структуры и заполняются элементами которые мы добавляем в HashMap
 
     public static void main(String[] args) {
         Map<Integer, String> map1= new HashMap<>();
@@ -25,5 +27,10 @@ public class HashMapExample1 {
         System.out.println(map1.keySet()); // возвращает все ключи
         System.out.println(map1.values()); // возвращает все значения
 
+        for (Map.Entry<Integer, String> entry : map1.entrySet()) {
+            System.out.println(entry.getKey() + " : " + entry.getValue());
+        }
+//        Entry это внутренний интерфейс Map, который имплементируется в Node, а Node является внутренним классом HashMap
+//        Entry позволяет итерироваться по хэшмапе
     }
 }

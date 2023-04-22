@@ -27,10 +27,10 @@ public class EqualsAndHashCode {
     }
 }
 
-class Student {
-    String name;
-    String surName;
-    int course;
+final class  Student { // зафиналили стобы не мог иметь наследников
+    final String name; // крайне желательно иметь имутабельные объекты в качестве ключа, поэтому зафиналим все поля
+    final String surName;
+    final int course;
 
     public Student(String name, String surName, int course) {
         this.name = name;
