@@ -27,7 +27,9 @@ public class EqualsAndHashCode {
     }
 }
 
-final class  Student { // зафиналили стобы не мог иметь наследников
+final class  Student
+       // implements Comparable<Student>
+{ // зафиналили стобы не мог иметь наследников
     final String name; // крайне желательно иметь имутабельные объекты в качестве ключа, поэтому зафиналим все поля
     final String surName;
     final int course;
@@ -59,4 +61,13 @@ final class  Student { // зафиналили стобы не мог иметь
     public int hashCode() {
         return Objects.hash(name, surName, course);
     }
+
+//    @Override
+//    public int compareTo(Student o) {
+//        int result = this.name.compareTo(o.name);
+//        if (result == 0) {
+//            result = this.surName.compareTo(o.surName);
+//        }
+//        return result;
+//    }
 }
