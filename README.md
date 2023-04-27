@@ -23,7 +23,7 @@
   + BinarySearch
   + BigO
   + List
-     + ArrayList
+    + ArrayList
     + LinkedList
     + Vector
     + Stack
@@ -31,3 +31,8 @@
   + Map
     + HashMap
     + TreeMap
+    + HashTable
+  + Set
+    + HashSet
+    + LinkedHashSet
+    + TreeSet
