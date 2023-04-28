@@ -50,7 +50,5 @@ public class ArrayListMethods2 {
                                                       // то в рантайме получим NullPointerException
 
         List<String> list2 = List.copyOf(arrList1);  // то же создаст не изменяемый список на основе имеющегося
-
-
     }
 }

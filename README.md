@@ -27,3 +27,13 @@
     + LinkedList
     + Vector
     + Stack
+  + Equals & HashCode
+  + Map
+    + HashMap
+    + TreeMap
+    + HashTable
+  + Set
+    + HashSet
+    + LinkedHashSet
+    + TreeSet
+    + LinkedHashSet
