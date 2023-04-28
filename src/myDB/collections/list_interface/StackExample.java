@@ -1,4 +1,4 @@
-package myDB.collections.list;
+package myDB.collections.list_interface;
 
 import java.util.Stack;
 

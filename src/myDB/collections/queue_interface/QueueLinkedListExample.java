@@ -1,4 +1,4 @@
-package myDB.collections.queue;
+package myDB.collections.queue_interface;
 
 import java.util.LinkedList;
 import java.util.Queue;

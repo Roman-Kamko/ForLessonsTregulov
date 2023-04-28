@@ -42,3 +42,10 @@
     + Deque interface
       + LinkedList
       + ArrayDeque
+  
+
+  + Nested classes
+    + StaticNested classes
+    + Inner classes
+    + local inner classes
+    + Anonymous classes

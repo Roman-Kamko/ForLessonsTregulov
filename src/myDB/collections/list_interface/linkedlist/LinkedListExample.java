@@ -1,4 +1,4 @@
-package myDB.collections.list.linkedlist;
+package myDB.collections.list_interface.linkedlist;
 
 import java.util.LinkedList;
 import java.util.List;
