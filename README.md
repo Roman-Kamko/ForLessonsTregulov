@@ -37,8 +37,3 @@
     + LinkedHashSet
     + TreeSet
     + LinkedHashSet
-  + Queue interface
-    + PriorityQueue
-    + Deque interface
-      + LinkedList
-      + ArrayDeque
