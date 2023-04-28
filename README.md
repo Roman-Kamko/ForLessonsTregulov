@@ -22,8 +22,24 @@
   + ListIterator
   + BinarySearch
   + BigO
-  + List
+  + List interface
     + ArrayList
     + LinkedList
     + Vector
     + Stack
+  +
+  + Equals & HashCode
+  + Map interface
+    + HashMap
+    + TreeMap
+    + HashTable
+  + Set interface
+    + HashSet
+    + LinkedHashSet
+    + TreeSet
+    + LinkedHashSet
+  + Queue interface
+    + PriorityQueue
+    + Deque interface
+      + LinkedList
+      + ArrayDeque
