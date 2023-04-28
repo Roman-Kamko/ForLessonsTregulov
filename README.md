@@ -22,18 +22,17 @@
   + ListIterator
   + BinarySearch
   + BigO
-  + List interface
+  + List
     + ArrayList
     + LinkedList
     + Vector
     + Stack
-  +
   + Equals & HashCode
-  + Map interface
+  + Map
     + HashMap
     + TreeMap
     + HashTable
-  + Set interface
+  + Set
     + HashSet
     + LinkedHashSet
     + TreeSet
