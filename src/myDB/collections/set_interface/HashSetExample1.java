@@ -1,4 +1,4 @@
-package myDB.collections.set;
+package myDB.collections.set_interface;
 
 import java.util.HashSet;
 import java.util.Set;

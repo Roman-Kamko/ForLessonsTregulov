@@ -1,4 +1,4 @@
-package myDB.collections.queue;
+package myDB.collections.queue_interface;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

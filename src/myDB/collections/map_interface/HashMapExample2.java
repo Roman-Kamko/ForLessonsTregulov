@@ -1,4 +1,4 @@
-package myDB.collections.map;
+package myDB.collections.map_interface;
 
 import java.util.HashMap;
 import java.util.Map;

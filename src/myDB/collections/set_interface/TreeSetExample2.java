@@ -1,8 +1,6 @@
-package myDB.collections.set;
+package myDB.collections.set_interface;
 
-import java.util.Comparator;
 import java.util.Objects;
-import java.util.Set;
 import java.util.TreeSet;
 
 public class TreeSetExample2 {

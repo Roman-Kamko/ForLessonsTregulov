@@ -1,7 +1,6 @@
-package myDB.collections.map;
+package myDB.collections.map_interface;
 
 import java.util.Comparator;
-import java.util.Map;
 import java.util.TreeMap;
 
 public class TreeMapExample {

@@ -1,4 +1,4 @@
-package myDB.collections.list.arraylist;
+package myDB.collections.list_interface.arraylist;
 
 import java.util.ArrayList;
 import java.util.Arrays;

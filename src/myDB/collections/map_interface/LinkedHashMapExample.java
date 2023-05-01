@@ -1,9 +1,6 @@
-package myDB.collections.map;
+package myDB.collections.map_interface;
 
-import java.util.HashMap;
 import java.util.LinkedHashMap;
-import java.util.Map;
-import java.util.TreeMap;
 
 public class LinkedHashMapExample {
     /* LinkedHashMap наследник HashMap хранит информацию о порядке добавления элементов
