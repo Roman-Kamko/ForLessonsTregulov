@@ -49,3 +49,12 @@
     + Inner classes
     + local inner classes
     + Anonymous classes
+
+
+  + Lambda expressions
+    + Lambda
+    + Predicate
+    + Consumer
+    + Supplier
+    + Function
+    + метод .forEach();
