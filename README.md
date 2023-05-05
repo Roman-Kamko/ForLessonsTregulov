@@ -58,3 +58,18 @@
     + Supplier
     + Function
     + метод .forEach();
+
+
+  + Stream
+    - map
+    - filter
+    - sorted
+    - forEach
+    - reduce
+    - chaining methods
+    - collect(Collectors.groupingBy)
+    - collect(Collectors.partitioningBy)
+    - flatMap
+    - mapToInt
+    - Other methods
+    - Parallel stream
