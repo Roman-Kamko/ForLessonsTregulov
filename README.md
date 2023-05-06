@@ -6,6 +6,7 @@
 
 + интерфейсы Comparable & Comparator
 
+***
 
 + Generics
   + intro (см. Test1.java)
@@ -16,6 +17,7 @@
   + TypeErasure
   + WildCard
 
+***
 
 + Collections
   + Iterator
@@ -23,53 +25,61 @@
   + BinarySearch
   + BigO
   + List interface
-    + ArrayList
-    + LinkedList
-    + Vector
-    + Stack
+    - ArrayList
+    - LinkedList
+    - Vector
+    - Stack
   + Equals & HashCode
   + Map interface
-    + HashMap
-    + TreeMap
-    + HashTable
+    - HashMap
+    - TreeMap
+    - HashTable
   + Set interface
-    + HashSet
-    + LinkedHashSet
-    + TreeSet
-    + LinkedHashSet
+    - HashSet
+    - LinkedHashSet
+    - TreeSet
+    - LinkedHashSet
   + Queue interface
-    + PriorityQueue
-    + Deque interface
-      + LinkedList
-      + ArrayDeque
+    - PriorityQueue
+    - Deque interface
+      - LinkedList
+      - ArrayDeque
   
+***
 
-  + Nested classes
-    + StaticNested classes
-    + Inner classes
-    + local inner classes
-    + Anonymous classes
++ Nested classes
+  - StaticNested classes
+  - Inner classes
+  - local inner classes
+  - Anonymous classes
 
+***
 
-  + Lambda expressions
-    + Lambda
-    + Predicate
-    + Consumer
-    + Supplier
-    + Function
-    + метод .forEach();
++ Lambda expressions
+  - Lambda
+  - Predicate
+  - Consumer
+  - Supplier
+  - Function
+  - метод .forEach();
 
+***
 
-  + Stream
-    - map
-    - filter
-    - sorted
-    - forEach
-    - reduce
-    - chaining methods
-    - collect(Collectors.groupingBy)
-    - collect(Collectors.partitioningBy)
-    - flatMap
-    - mapToInt
-    - Other methods
-    - Parallel stream
++ Stream
+  - map
+  - filter
+  - sorted
+  - forEach
+  - reduce
+  - chaining methods
+  - collect(Collectors.groupingBy)
+  - collect(Collectors.partitioningBy)
+  - flatMap
+  - mapToInt
+  - Other methods
+  - Parallel stream
+
+***
+
++ Multithreading
+  + способы создания потока
