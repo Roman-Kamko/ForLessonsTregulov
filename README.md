@@ -83,3 +83,7 @@
 
 + Multithreading
   + способы создания потока
+  + имя и приоритет потока
+  + sleep() & join()
+  + Concurrency/Parallelism
+  + Asynchronous/Synchronous
