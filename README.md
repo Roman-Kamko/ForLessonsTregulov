@@ -87,3 +87,5 @@
   + sleep() & join()
   + Concurrency/Parallelism
   + Asynchronous/Synchronous
+  + Synchronized & Data race
+  + Монитор и Synchronized блоки
