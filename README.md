@@ -89,3 +89,9 @@
   + Asynchronous/Synchronous
   + Synchronized & Data race
   + Монитор и Synchronized блоки
+  + wait() & notify()
+  + возможные ситуации в многопоточном программировании:
+    + Deadlock
+    + Livelock
+    + Lock starvation
+    
