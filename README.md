@@ -94,4 +94,5 @@
     + Deadlock
     + Livelock
     + Lock starvation
-  + Daemon потоки 
+  + Daemon потоки
+  + interrupt() прерывание потока
