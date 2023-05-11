@@ -96,3 +96,4 @@
     + Lock starvation
   + Daemon потоки
   + interrupt() прерывание потока
+  + ThreadPool & ExecutorService
