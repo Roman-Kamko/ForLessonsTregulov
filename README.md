@@ -94,4 +94,4 @@
     + Deadlock
     + Livelock
     + Lock starvation
-    
+  + Daemon потоки 
