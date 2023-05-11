@@ -4,7 +4,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 
-public class ThreadPoolAndExecutorService {
+public class ThreadPoolEx1 {
     /*
     * Thread pool - это множество потоков, каждый из которых предназначен для выполнения
     * той или иной задачи.
